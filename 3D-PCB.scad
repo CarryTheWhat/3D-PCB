@@ -7,11 +7,13 @@ use <MCAD/shapes.scad>;
 // http://www.gnu.org/licenses/lgpl-2.1.html
 //
 // links:
-//   http://www.thingiverse.com/thing:18800
+//   http://www.thingiverse.com/thing:21975 -- main thingiverse page
+//   http://www.thingiverse.com/thing:22052 -- flashlight example
 //   https://github.com/CarryTheWhat/3D-PCB
+//       -- instructables for detailed instructions
 // 
 // This is the library for hand-wound solder-free 3D-PCBs, version 0.2
-// With this library, and a 3D printer (so far tested on pp3dp Up! and makerbot's Replicator)
+// With this library, and a 3D printer (so far tested only on makerbot's Replicator)
 // it is meant to be printed at the render orientation, with no raft and no support
 // It includes the following components:
 /*   note: this does not include helper functions or intermediary components
