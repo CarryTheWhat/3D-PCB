@@ -2,6 +2,8 @@
 ======<br>
 OpenSCAD printed circuit board library for solder-free 3D-printable electronics.<br><br>
 
+This library is licensed under the LGPL See http://www.gnu.org/licenses/lgpl.html <br><br>
+
 Feature set:<br>
  -- power components --<br>
 battery_holder_AAA(count = 1) // by default, makes a holder for 1 battery<br>
